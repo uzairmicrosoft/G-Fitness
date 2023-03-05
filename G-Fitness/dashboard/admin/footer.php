@@ -1,0 +1,1 @@
+<footer class="main">Copyright &copy; 2022 <strong> G Fitness </strong></footer>
